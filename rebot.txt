@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /webfonts/
+
+Sitemap: https://blog.zhixuan.tk/sitemap.xml
